@@ -1,0 +1,72 @@
+Arabic Translations:
+ما
+Arabic Examples:
+FBI! Everyone stop what what you're doing!
+مكتب التحقيقات الفدرالي الجميع أوقفوا ما تفعلونه
+
+German Translations:
+was
+German Examples:
+I am what I am, what my parents were, I am what I am, what my society is, I am what I am, what you are.
+Ich bin, was ich bin, was meine Eltern waren, ich bin, was ich bin, was meine Gesellschaft ist, ich bin, was ich bin, was Sie sind.
+
+Spanish Translations:
+lo que
+Spanish Examples:
+I could care less what what anyone thinks of me.
+No me interesa en absoluto lo que piensan los demás de mí.
+
+French Translations:
+ce que
+French Examples:
+Intuitively, people understand what flexibility means.
+Intuitivement, les gens comprennent ce que signifie le mot "flexibilité".
+
+Hebrew Translations:
+מה
+Hebrew Examples:
+You know what what wasn't? Visiting my mother.
+את יודעת מה לא הייתה החלטה טובה.
+
+Japanese Translations:
+何
+Japanese Examples:
+それから何が変わったのでしょう？　技術革新です
+And what makes you say that?
+
+Dutch Translations:
+wat
+Dutch Examples:
+It's what Crystal wants, what we promised him.
+Het is wat Chrystal wil, wat we hem hebben beloofd.
+
+Polish Translations:
+jaki
+Polish Examples:
+Demonstrate what life is and what it could be.
+Zademonstrujemy kontrast pomiędzy tym jakie życie jest, a jakie mogłoby być.
+
+Portuguese Translations:
+o que
+Portuguese Examples:
+Perhaps we should ask Zak what what he wants.
+Talvez nós devêssemos perguntar ao Zak o que ele quer.
+
+Romanian Translations:
+ce
+Romanian Examples:
+Perhaps we should ask Zak what what he wants.
+Poate ar trebui să îl întrebați pe Zak ce își dorește el.
+
+Russian Translations:
+что
+Russian Examples:
+Help your adolescent identify what went wrong and what to do differently next time.
+Помогите своему подростку определить, что пошло не так и что нужно сделать по-другому в следующий раз.
+
+Turkish Translations:
+nasıl
+Turkish Examples:
+No one knows what commercials sell what products.
+Hangi reklamın hangi ürünü sattığını kimse bilmez.
+
